@@ -2,7 +2,7 @@
 
 Aplicación móvil oficial en **React Native / Expo** para oficiales de crédito del **Banco de Desarrollo Productivo (BDP S.A.M.)**.
 
-Migración completa y sincronizada de la plataforma web BDP (`bdp-credit-frontend`) con soporte para evaluación en campo, cálculo en vivo de cuotas francesas, balances patrimoniales, márgenes MUB, flujo de caja mensual proyectado a 12 meses y dictamen de resolución crediticia.
+Migración completa y  sincronizada de la plataforma web BDP (`bdp-credit-frontend`) con soporte para evaluación en campo, cálculo en vivo de cuotas francesas, balances patrimoniales, márgenes MUB, flujo de caja mensual proyectado a 12 meses y dictamen de resolución crediticia.
 
 ---
 
